@@ -1,0 +1,1 @@
+Usuário confirmou que deseja que todos os arquivos do sistema sejam finalizados no mesmo Replit já criado.
